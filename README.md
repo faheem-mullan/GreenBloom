@@ -18,3 +18,8 @@ GreenBloom is a clean, responsive e-commerce website focused on promoting sustai
 
 ## 📁 Project Structure
 
+GreenBloom/ ├── index.html ├── style.css ├── script.js ├── /images ├── /products └── /cart
+
+
+
+
