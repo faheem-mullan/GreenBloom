@@ -21,5 +21,55 @@ GreenBloom is a clean, responsive e-commerce website focused on promoting sustai
 GreenBloom/ ├── index.html ├── style.css ├── script.js ├── /images ├── /products └── /cart
 
 
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+- Future: GitHub Pages / React / Node.js
+
+---
+
+## 🎯 Goals
+
+- Practice real-world full-stack web development
+- Build a strong portfolio project
+- Learn Git, GitHub, and professional workflows
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots of your website here once the design is ready)*
+
+---
+
+## 🤝 Contributing
+
+This is a personal project. If you'd like to suggest improvements or ideas, feel free to fork the repo and open a pull request!
+
+---
+
+## 🧑‍💻 Author
+
+**Faheem Mullan**  
+GitHub: [faheem-mullan](https://github.com/faheem-mullan)
+
+---
+
+## 🌟 Acknowledgements
+
+- Inspired by the idea of a greener, more sustainable internet
+- Learning through [Coursera IBM Full Stack Developer Course](https://coursera.org)
+
+---
+
+## 📢 License
+
+This project is for educational and personal portfolio purposes.
+
+
 
 
