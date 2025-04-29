@@ -42,7 +42,7 @@ GreenBloom/ ├── index.html ├── style.css ├── script.js ├─�
 
 ## 📸 Screenshots
 
-*(Add screenshots of your website here once the design is ready)*
+
 
 ---
 
